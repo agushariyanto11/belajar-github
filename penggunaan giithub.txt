@@ -1,2 +1,2 @@
 *Belajar Tentang Github
-  -Dasar Teori Github
+  -Praktek Github
