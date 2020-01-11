@@ -1,1 +1,3 @@
 -Belajar membuat repository
+-Belajar membuat branch baru
+-Belajar ngemerge
